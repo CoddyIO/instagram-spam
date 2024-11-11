@@ -1,7 +1,7 @@
 import keyboard
 import time
 while True:
-    keyboard.press_and_release('ctrl+v')
+    keyboard.press('tu pgl hai')
     time.sleep(0.2)
-    keyboard.press_and_release('enter')
+    keyboard.press('enter')
     time.sleep(0.2)
